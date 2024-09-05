@@ -4,4 +4,5 @@ Vamos criar um **e-commerce**, para a *empresa X*, blablabla.
 
 ## Funcionalidades:
 
-Checkout, Tela de produto, Catálogo, Home com banner
+_Checkout, **Tela de produto**, Catálogo, Home com banner_
+
