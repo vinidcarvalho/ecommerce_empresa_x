@@ -6,3 +6,10 @@ Vamos criar um **e-commerce**, para a *empresa X*, blablabla.
 
 _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
+### Linguagens do projeto:
+
+* HTML
+* Javascript
+* PHP
+* PHP
+* MySQL
